@@ -1,0 +1,2 @@
+* linguist-vendored
+*.astro linguist-vendored=false
